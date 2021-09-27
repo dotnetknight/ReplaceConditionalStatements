@@ -1,0 +1,16 @@
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\bin\Debug\net5.0\ReplaceConditionalStatements.exe
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\bin\Debug\net5.0\ReplaceConditionalStatements.deps.json
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\bin\Debug\net5.0\ReplaceConditionalStatements.runtimeconfig.json
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\bin\Debug\net5.0\ReplaceConditionalStatements.runtimeconfig.dev.json
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\bin\Debug\net5.0\ReplaceConditionalStatements.dll
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\bin\Debug\net5.0\ref\ReplaceConditionalStatements.dll
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\bin\Debug\net5.0\ReplaceConditionalStatements.pdb
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\obj\Debug\net5.0\ReplaceConditionalStatements.csprojAssemblyReference.cache
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\obj\Debug\net5.0\ReplaceConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\obj\Debug\net5.0\ReplaceConditionalStatements.AssemblyInfoInputs.cache
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\obj\Debug\net5.0\ReplaceConditionalStatements.AssemblyInfo.cs
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\obj\Debug\net5.0\ReplaceConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\obj\Debug\net5.0\ReplaceConditionalStatements.dll
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\obj\Debug\net5.0\ref\ReplaceConditionalStatements.dll
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\obj\Debug\net5.0\ReplaceConditionalStatements.pdb
+C:\Users\niko.kantaria\Desktop\ReplaceConditionalStatements\ReplaceConditionalStatements\obj\Debug\net5.0\ReplaceConditionalStatements.genruntimeconfig.cache
