@@ -1,0 +1,15 @@
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\bin\Debug\net5.0\FluentConditions.exe
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\bin\Debug\net5.0\FluentConditions.deps.json
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\bin\Debug\net5.0\FluentConditions.runtimeconfig.json
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\bin\Debug\net5.0\FluentConditions.runtimeconfig.dev.json
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\bin\Debug\net5.0\FluentConditions.dll
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\bin\Debug\net5.0\ref\FluentConditions.dll
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\bin\Debug\net5.0\FluentConditions.pdb
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\obj\Debug\net5.0\FluentConditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\obj\Debug\net5.0\FluentConditions.AssemblyInfoInputs.cache
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\obj\Debug\net5.0\FluentConditions.AssemblyInfo.cs
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\obj\Debug\net5.0\FluentConditions.csproj.CoreCompileInputs.cache
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\obj\Debug\net5.0\FluentConditions.dll
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\obj\Debug\net5.0\ref\FluentConditions.dll
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\obj\Debug\net5.0\FluentConditions.pdb
+C:\Users\skott\Desktop\Projects\Console\ReplaceConditionalStatements\FluentConditions\obj\Debug\net5.0\FluentConditions.genruntimeconfig.cache
